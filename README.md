@@ -100,11 +100,11 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ## Education
-Symbiosis International Univercity: 
+Symbiosis International University: 
 MBA - Operations Management
 Dec 2007 - Dec 2009
 
-Mahatma Gandhi Unvercity:
+Mahatma Gandhi Unversity:
 Bachelor's degree - Electronics and Communoication
 2019 - 2022
 
